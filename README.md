@@ -4,7 +4,7 @@ This is a simple full-stack e-commerce web application, similar to Amazon, where
 ## Features
 
 - **User Authentication**: Users can register, log in, and log out using Passport.js and sessions
-- **Item Management**: Authenticated users can view and add new items with images, names, and prices.
+- **Item Management**: Authenticated users can view and add new items with images, names, and prices
 - **Purchases**: Users can buy items and the purchases are stored in the backend.
 - **File Uploads**: Item images are uploaded using Multer and stored locally.
 - **Admin/User View**: Admins can add items, and users can browse and purchase them.
